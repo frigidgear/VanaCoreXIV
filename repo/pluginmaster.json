@@ -5,7 +5,7 @@
     "Punchline": "FFXIV all-in-one control panel inspired by VanaCore",
     "Description": "Dalamud plugin for FFXIV: FOV/zoom, nameplates, chat/UI scale, game SystemConfig graphics, presets, performance overlays. ReShade companion for post-process.",
     "InternalName": "VanaCoreXIV",
-    "AssemblyVersion": "1.2.0.0",
+    "AssemblyVersion": "1.0.0.0",
     "RepoUrl": "https://github.com/frigidgear/VanaCoreXIV",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
