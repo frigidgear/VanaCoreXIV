@@ -6,7 +6,7 @@
     "Description": "Control panel for FFXIV: camera, UI scales, system graphics, presets, ReShade bridge.",
     "InternalName": "VanaCoreXIV",
     "AssemblyVersion": "1.0.0.0",
-    "RepoUrl": "https://github.com/frigidgear/VanaCoreXIV",
+    "Description": "Dalamud plugin for FFXIV: FOV/zoom, nameplates, chat/UI scale, game SystemConfig graphics, presets, performance overlays. ReShade companion for post-process. Not a 1:1 FFXI VanaCore port — built for FFXIV/Dalamud.",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "IsHide": false,
@@ -14,6 +14,6 @@
     "DownloadLinkInstall": "https://github.com/frigidgear/VanaCoreXIV/releases/download/v1.2.0.0/VanaCoreXIV.zip",
     "DownloadLinkUpdate": "https://github.com/frigidgear/VanaCoreXIV/releases/download/v1.2.0.0/VanaCoreXIV.zip",
     "DownloadLinkTesting": "https://github.com/frigidgear/VanaCoreXIV/releases/download/v1.2.0.0/VanaCoreXIV.zip",
-    "Tags": [ "ui", "graphics", "qol" ]
+    "Tags": [ "ui", "graphics", "qol", "camera", "config" ],
   }
 ]
