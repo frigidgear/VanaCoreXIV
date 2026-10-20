@@ -2,18 +2,18 @@
   {
     "Author": "frigidgear",
     "Name": "VanaCoreXIV",
-    "Punchline": "Parity pass: presets, UI scale, theme, ReShade/upscale UX",
-    "Description": "Dalamud control panel with safer camera, expanded theme, built-in presets, live UI scale, System Config, ReShade bridge.",
+    "Punchline": "Presets fixed, safer camera, theme, ReShade bridge",
+    "Description": "Dalamud control panel: safer camera, UI theme groups, working JSON presets (JsonObject), System Config, ReShade bridge.",
     "InternalName": "VanaCoreXIV",
-    "AssemblyVersion": "1.6.0.0",
+    "AssemblyVersion": "1.7.0.0",
     "RepoUrl": "https://github.com/frigidgear/VanaCoreXIV",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkInstall": "https://github.com/frigidgear/VanaCoreXIV/releases/download/v1.6.0.0/VanaCoreXIV.zip",
-    "DownloadLinkUpdate": "https://github.com/frigidgear/VanaCoreXIV/releases/download/v1.6.0.0/VanaCoreXIV.zip",
-    "DownloadLinkTesting": "https://github.com/frigidgear/VanaCoreXIV/releases/download/v1.6.0.0/VanaCoreXIV.zip",
+    "DownloadLinkInstall": "https://github.com/frigidgear/VanaCoreXIV/releases/download/v1.7.0.0/VanaCoreXIV.zip",
+    "DownloadLinkUpdate": "https://github.com/frigidgear/VanaCoreXIV/releases/download/v1.7.0.0/VanaCoreXIV.zip",
+    "DownloadLinkTesting": "https://github.com/frigidgear/VanaCoreXIV/releases/download/v1.7.0.0/VanaCoreXIV.zip",
     "Tags": [ "ui", "graphics", "qol", "camera", "config" ]
   }
 ]
